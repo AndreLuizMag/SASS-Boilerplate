@@ -28,6 +28,12 @@ npm run gulp
 
 <br />
 
+<h2>How to use</h2>
+
+Add your files .sass or .scss in folder style. And you can start coding
+
+<br />
+
 ## License
 
 The code is available under the [MIT license](LICENSE.txt).
